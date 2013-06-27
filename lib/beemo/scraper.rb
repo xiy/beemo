@@ -1,4 +1,4 @@
-# A Capybara-WebKit/Nokogir/Users/xiy/Library/Application Support/Chocolat/Themes/Blawan.chocicei-based scraper loosely based on scrAPI
+# A Capybara-WebKit/Nokogiri-based scraper loosely based on scrAPI
 #
 # Copyright (c) 2012 Mark Anthony Gibbins (@xiy)
 
